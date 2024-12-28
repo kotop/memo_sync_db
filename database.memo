@@ -265,7 +265,12 @@
             "date_added": "2024-12-28 01:38:17",
             "folder_id": null,
             "parent_id": null,
-            "tags": []
+            "tags": [
+                {
+                    "name": "1",
+                    "color": "#E5CF96"
+                }
+            ]
         }
     ],
     "tags": [
@@ -273,6 +278,11 @@
             "id": 1,
             "name": "111",
             "color": "#6700D9"
+        },
+        {
+            "id": 2,
+            "name": "1",
+            "color": "#E5CF96"
         }
     ]
 }
