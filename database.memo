@@ -1,0 +1,269 @@
+{
+    "folders": [
+        {
+            "id": 1,
+            "name": "Test 1",
+            "parent_id": null,
+            "color": null
+        }
+    ],
+    "files": [
+        {
+            "id": "0510a8b5-dc87-4464-8703-29c227429eef",
+            "name": "1. Черный кот с рыбкой.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/1. Черный кот с рыбкой.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": []
+        },
+        {
+            "id": "14d975b5-2f90-4aa3-a5bf-f61c3aa9508f",
+            "name": "13. Камни.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/13. Камни.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": []
+        },
+        {
+            "id": "220e3446-c142-4f4b-9abd-4456cb55d445",
+            "name": "3. Леопард.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/3. Леопард.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": []
+        },
+        {
+            "id": "22ef7238-eeef-4e5a-9879-88081f78af7c",
+            "name": "12. Вода.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/12. Вода.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": []
+        },
+        {
+            "id": "2df2b97c-4658-493c-80b8-f8aab81e6534",
+            "name": "23. Windows Logo 2.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/23. Windows Logo 2.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": []
+        },
+        {
+            "id": "4f65c9b9-cfe5-45c8-a2d5-a5efeb084ce6",
+            "name": "19. Самолеты.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/19. Самолеты.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": []
+        },
+        {
+            "id": "50034ccf-93f3-42c0-9c08-b0d1c3d6e23a",
+            "name": "9. Пустыня.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/9. Пустыня.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": []
+        },
+        {
+            "id": "5568745a-19fb-4306-879f-6795b6a89162",
+            "name": "14. Листва.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/14. Листва.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": []
+        },
+        {
+            "id": "68009f42-05d8-4699-b78d-b6d4cb1e5565",
+            "name": "22. Windows Logo.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/22. Windows Logo.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": 1,
+            "parent_id": null,
+            "tags": [
+                {
+                    "name": "111",
+                    "color": "#6700D9"
+                }
+            ]
+        },
+        {
+            "id": "6dbc54f4-421f-4c89-9061-f62aac3de475",
+            "name": "17. Мост.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/17. Мост.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": [
+                {
+                    "name": "111",
+                    "color": "#6700D9"
+                }
+            ]
+        },
+        {
+            "id": "6eda4262-4d82-4064-839e-9129106f6098",
+            "name": "15. Облака.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/15. Облака.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": []
+        },
+        {
+            "id": "6ede1332-3824-4979-91a8-e81159b95bd6",
+            "name": "7. Бабочка.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/7. Бабочка.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": []
+        },
+        {
+            "id": "7f9fabcf-613b-46e1-a0d0-0ed2ba6e56d1",
+            "name": "21. Горы.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/21. Горы.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": []
+        },
+        {
+            "id": "86832fe1-4edf-40bc-8130-63a13a138972",
+            "name": "20. Карандаши.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/20. Карандаши.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": []
+        },
+        {
+            "id": "8dfae6e4-f7ee-4226-893b-c7f49fd6c77e",
+            "name": "4. Кот с наушниками.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/4. Кот с наушниками.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": 1,
+            "parent_id": null,
+            "tags": [
+                {
+                    "name": "111",
+                    "color": "#6700D9"
+                }
+            ]
+        },
+        {
+            "id": "aa1c454f-57b0-46d8-942c-70f201cb8315",
+            "name": "5. Белый тигренок.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/5. Белый тигренок.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": []
+        },
+        {
+            "id": "c831eef4-0d48-4ef1-b566-3ab39ded082d",
+            "name": "6. Жираф.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/6. Жираф.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": []
+        },
+        {
+            "id": "cbcb437a-8771-488f-9bbb-c2312fdc6ec5",
+            "name": "10. Цветы.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/10. Цветы.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": []
+        },
+        {
+            "id": "d498d971-7926-48e7-a578-8c76367d21cf",
+            "name": "25. Ромашки.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/25. Ромашки.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": []
+        },
+        {
+            "id": "ec1b2718-4ee7-4727-9c83-c482c59a4e93",
+            "name": "11. Закат.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/11. Закат.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": []
+        },
+        {
+            "id": "f179c421-4455-4340-8be5-74a1f602a2f9",
+            "name": "8. Божья коровка.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/8. Божья коровка.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": []
+        },
+        {
+            "id": "f1ab4cb9-42dc-43c5-87d2-1902939cbf6d",
+            "name": "24. Windows Logo 3.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/24. Windows Logo 3.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": 1,
+            "parent_id": null,
+            "tags": [
+                {
+                    "name": "111",
+                    "color": "#6700D9"
+                }
+            ]
+        },
+        {
+            "id": "f82dc683-b808-4e81-9b9c-d000c40c8068",
+            "name": "2. Хаски.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/2. Хаски.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": []
+        },
+        {
+            "id": "f8abf918-8c86-4659-afe8-f73df688d624",
+            "name": "16. Город.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/16. Город.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": []
+        },
+        {
+            "id": "fed54d1b-6dd0-4526-9a8e-6b923a43ab13",
+            "name": "18. Замок Химэдзи.jpg",
+            "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/18. Замок Химэдзи.jpg",
+            "date_added": "2024-12-28 01:38:17",
+            "folder_id": 1,
+            "parent_id": null,
+            "tags": [
+                {
+                    "name": "111",
+                    "color": "#6700D9"
+                }
+            ]
+        }
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "111",
+            "color": "#6700D9"
+        }
+    ]
+}
