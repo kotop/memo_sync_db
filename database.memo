@@ -5,6 +5,12 @@
             "name": "Test 1",
             "parent_id": null,
             "color": "#ffff00"
+        },
+        {
+            "id": 2,
+            "name": "Тест 2",
+            "parent_id": 1,
+            "color": "#ff37b2"
         }
     ],
     "files": [
@@ -19,6 +25,14 @@
                 {
                     "name": "111",
                     "color": "#6700D9"
+                },
+                {
+                    "name": "123",
+                    "color": "#5F5A07"
+                },
+                {
+                    "name": "йцук",
+                    "color": "#B70F8C"
                 }
             ]
         },
@@ -56,7 +70,12 @@
             "date_added": "2024-12-28 01:38:17",
             "folder_id": null,
             "parent_id": null,
-            "tags": []
+            "tags": [
+                {
+                    "name": "йцук",
+                    "color": "#B70F8C"
+                }
+            ]
         },
         {
             "id": "39a39a94-d3ed-4805-bbcd-7d3852080347",
@@ -86,13 +105,32 @@
             "tags": []
         },
         {
+            "id": "48c93bf1-57c3-4331-bc76-cd5ca331746a",
+            "name": "322",
+            "path": "",
+            "date_added": "2025-01-06 23:18:36",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": [
+                {
+                    "name": "143",
+                    "color": "#485121"
+                }
+            ]
+        },
+        {
             "id": "491965cd-a437-403e-8510-e324f3f8e369",
             "name": "19. Самолеты.jpg",
             "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/19. Самолеты.jpg",
             "date_added": "2024-12-28 01:38:17",
             "folder_id": null,
             "parent_id": null,
-            "tags": []
+            "tags": [
+                {
+                    "name": "йцук",
+                    "color": "#B70F8C"
+                }
+            ]
         },
         {
             "id": "63abede2-36a4-40f0-bd56-5dafdb85ab3e",
@@ -131,7 +169,7 @@
             "name": "17. Мост.jpg",
             "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/17. Мост.jpg",
             "date_added": "2024-12-28 01:38:17",
-            "folder_id": null,
+            "folder_id": 2,
             "parent_id": null,
             "tags": [
                 {
@@ -155,13 +193,50 @@
             ]
         },
         {
+            "id": "a3bda627-cea4-4800-b00a-394384734abb",
+            "name": "  платформы",
+            "path": "",
+            "date_added": "2025-01-01 22:06:08",
+            "folder_id": 2,
+            "parent_id": null,
+            "tags": [
+                {
+                    "name": "2341234",
+                    "color": "#D98809"
+                }
+            ]
+        },
+        {
+            "id": "a4921c53-d769-4817-be05-ae43836fdd70",
+            "name": "note_1551f30a-8d61-45e9-8990-e252b2b54ac4.md",
+            "path": "C:/Users/user/Documents\\Memo\\notes\\note_a4921c53-d769-4817-be05-ae43836fdd70.md",
+            "date_added": "2025-01-06 23:25:16",
+            "folder_id": null,
+            "parent_id": null,
+            "tags": [
+                {
+                    "name": "енуенке",
+                    "color": "#CA32A5"
+                }
+            ]
+        },
+        {
             "id": "a8f8f326-d6cc-45a6-be8f-1682ead35513",
             "name": "23. Windows Logo 2.jpg",
             "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/23. Windows Logo 2.jpg",
             "date_added": "2024-12-28 01:38:17",
-            "folder_id": null,
+            "folder_id": 2,
             "parent_id": null,
-            "tags": []
+            "tags": [
+                {
+                    "name": "111",
+                    "color": "#6700D9"
+                },
+                {
+                    "name": "123",
+                    "color": "#5F5A07"
+                }
+            ]
         },
         {
             "id": "aeedfd77-32b6-42d6-b533-4bccbd877adf",
@@ -197,7 +272,12 @@
             "date_added": "2024-12-28 01:38:17",
             "folder_id": null,
             "parent_id": null,
-            "tags": []
+            "tags": [
+                {
+                    "name": "111",
+                    "color": "#6700D9"
+                }
+            ]
         },
         {
             "id": "c9522ebb-b53d-4113-8271-d09d0ccca014",
@@ -215,7 +295,12 @@
             "date_added": "2024-12-28 01:38:17",
             "folder_id": null,
             "parent_id": null,
-            "tags": []
+            "tags": [
+                {
+                    "name": "123",
+                    "color": "#5F5A07"
+                }
+            ]
         },
         {
             "id": "d3012911-9508-4903-a03d-62f4437f2d40",
@@ -233,7 +318,12 @@
             "date_added": "2024-12-28 01:38:17",
             "folder_id": null,
             "parent_id": null,
-            "tags": []
+            "tags": [
+                {
+                    "name": "143",
+                    "color": "#485121"
+                }
+            ]
         },
         {
             "id": "e9ed8a57-0427-461e-a549-c9fd834d3d91",
@@ -241,7 +331,7 @@
             "path": "C:/Users/user/Pictures/Фоновые изображения рабочего стола/22. Windows Logo.jpg",
             "date_added": "2024-12-28 01:38:17",
             "folder_id": 1,
-            "parent_id": null,
+            "parent_id": "05c43104-1fd7-4b2f-a0ca-870e4ec519d4",
             "tags": [
                 {
                     "name": "111",
@@ -267,8 +357,8 @@
             "parent_id": null,
             "tags": [
                 {
-                    "name": "1",
-                    "color": "#E5CF96"
+                    "name": "1уа",
+                    "color": "#6C018D"
                 }
             ]
         }
@@ -281,8 +371,38 @@
         },
         {
             "id": 2,
+            "name": "123",
+            "color": "#5F5A07"
+        },
+        {
+            "id": 3,
+            "name": "143",
+            "color": "#485121"
+        },
+        {
+            "id": 4,
+            "name": "1уа",
+            "color": "#6C018D"
+        },
+        {
+            "id": 5,
+            "name": "йцук",
+            "color": "#B70F8C"
+        },
+        {
+            "id": 7,
+            "name": "2341234",
+            "color": "#D98809"
+        },
+        {
+            "id": 8,
             "name": "1",
-            "color": "#E5CF96"
+            "color": "#70ff7c"
+        },
+        {
+            "id": 9,
+            "name": "енуенке",
+            "color": "#CA32A5"
         }
     ]
 }
